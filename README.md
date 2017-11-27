@@ -1,2 +1,2 @@
 # mtw-web
-Mission Transformation Wellness Website
+Mission Transformations Wellness Website
